@@ -1,0 +1,12 @@
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\bin\Debug\XMLExporter.exe.config
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\bin\Debug\XMLExporter.exe
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\bin\Debug\XMLExporter.pdb
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\bin\Debug\XMLExporter.xml
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.vbprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\WindowsApp1.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\WindowsApp1.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.vbproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.vbproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.exe
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.xml
+d:\Documents\Visual Studio 2017\Projects\XMLExporter\XMLExporter\obj\Debug\XMLExporter.pdb
